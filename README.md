@@ -19,4 +19,15 @@ The results of each operation are displayed on the screen.
 ### How to Run
 1. Open a terminal or command prompt.
 2. Navigate to the repository folder.
-3. Run the script using:
+3. Run the script using.
+---
+
+## Task 2: Personalized Greeting
+
+### Description
+This program takes the user's first name and last name as input, combines them into a full name, and prints a personalized greeting message.
+
+### How to Run
+1. Open a terminal or command prompt.
+2. Navigate to the repository folder.
+3. Run the script.
